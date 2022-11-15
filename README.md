@@ -1,3 +1,4 @@
-# rhsProgammingClub
+# RHS programming club website
+### [Website link](https://rhsprogrammingclub.github.io/)
 
-ok
+Welcome to the repository!
